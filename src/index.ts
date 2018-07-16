@@ -1,10 +1,9 @@
-/**
- * @module Glob
- */
-
 import glob from 'glob';
 import {RpsContext,RpsModule,rpsAction} from 'rpscript-interface';
 
+/** Glob Module
+ * @namespace Glob
+*/
 @RpsModule("glob")
 export default class RPSGlob {
 

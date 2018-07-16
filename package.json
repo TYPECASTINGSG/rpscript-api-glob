@@ -1,5 +1,5 @@
 {
-  "name": "rpscript-api-glob",
+  "name": "@typecasting/rpscript-api-glob",
   "version": "0.1.0",
   "description": "RPScript API for glob",
   "keywords": [
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "glob": "^7.1.2",
-    "rpscript-interface": "^0.5.3"
+    "rpscript-interface": "^0.6.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.4",
