@@ -15,7 +15,7 @@ export default class RPSGlob {
  * ;match files that starts with pa
  * glob pa*
  * @param {string} pattern pattern to be matched
- * @returns {void} 
+ * @returns {Array} An array of strings 
  * @summary Match file given a pattern.
  * 
  * @see {@link https://www.npmjs.com/package/glob}
